@@ -6,3 +6,4 @@ https://rhasumi.net/data/ContinuousDGE.pdf
 gensysct.mほかは  
 http://sims.princeton.edu/yftp/gensys/  
 から入手してください。
+これを使うプログラムには、Symbolic math toolboxも必要です。
